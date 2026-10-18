@@ -6,9 +6,9 @@ permalink: /terms/
 
 # Điều khoản sử dụng
 
-*Cập nhật lần cuối: [NGÀY]*
+*Cập nhật lần cuối: 18/10/2026*
 
-Khi tải hoặc dùng ứng dụng **[TÊN APP]** ("Ứng dụng") của **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi"), bạn đồng ý với các điều khoản dưới đây. [English version below](#terms-of-use-english).
+Khi tải hoặc dùng ứng dụng **Đèn Đọc** ("Ứng dụng") của **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi"), bạn đồng ý với các điều khoản dưới đây. [English version below](#terms-of-use-english).
 
 ## 1. Ứng dụng làm gì
 
@@ -62,15 +62,15 @@ Các điều khoản này chịu sự điều chỉnh của pháp luật **Việ
 
 ## 12. Thay đổi và liên hệ
 
-Chúng tôi có thể cập nhật điều khoản và sẽ ghi lại ngày cập nhật ở đầu trang. Liên hệ: **[EMAIL]**.
+Chúng tôi có thể cập nhật điều khoản và sẽ ghi lại ngày cập nhật ở đầu trang. Liên hệ: **ngochuy2603@gmail.com**.
 
 ---
 
 # Terms of Use (English)
 
-*Last updated: [DATE]*
+*Last updated: 18 October 2026*
 
-By downloading or using **[APP NAME]** (the "App") from **[DEVELOPER NAME]** ("we"), you agree to these terms.
+By downloading or using **Reading Lamp (Đèn Đọc)** (the "App") from **[DEVELOPER NAME]** ("we"), you agree to these terms.
 
 ## 1. What the App does
 
@@ -124,4 +124,4 @@ These terms are governed by the laws of **Vietnam**, unless consumer protection 
 
 ## 12. Changes and contact
 
-We may update these terms and will note the date at the top of this page. Contact: **[EMAIL]**.
+We may update these terms and will note the date at the top of this page. Contact: **ngochuy2603@gmail.com**.

@@ -6,9 +6,9 @@ permalink: /privacy/
 
 # Chính sách quyền riêng tư
 
-*Cập nhật lần cuối: [NGÀY]*
+*Cập nhật lần cuối: 18/10/2026*
 
-Chính sách này giải thích cách ứng dụng **[TÊN APP]** ("Ứng dụng") do **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi") phát triển xử lý thông tin của bạn. [English version below](#privacy-policy-english).
+Chính sách này giải thích cách ứng dụng **Đèn Đọc** ("Ứng dụng") do **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi") phát triển xử lý thông tin của bạn. [English version below](#privacy-policy-english).
 
 ## 1. Tóm tắt
 
@@ -24,7 +24,8 @@ Chính sách này giải thích cách ứng dụng **[TÊN APP]** ("Ứng dụng
 | Link trang web bạn mở | Tải và đọc to nội dung trang | Trên máy |
 | Nội dung chữ của trang (đã lọc quảng cáo, điều hướng) | Đọc to, lưu để nghe offline | Trên máy; chương lưu offline **tự xoá sau 30 ngày** |
 | Thư viện, vị trí đang nghe, lịch sử | Nghe tiếp đúng chỗ | Trên máy |
-| Cài đặt giọng đọc, quy tắc phát âm | Cá nhân hoá cách đọc | Trên máy |
+| Cài đặt giọng đọc (giọng, tốc độ, ngắt nghỉ) | Cá nhân hoá cách đọc | Trên máy |
+| Thời gian đã nghe trong ngày | Tính giờ nghe miễn phí mỗi ngày | Trên máy, đặt lại mỗi ngày |
 
 Khi bạn mở một link, Ứng dụng **kết nối trực tiếp tới trang web đó**, giống như trình duyệt. Trang web đó có thể ghi nhận địa chỉ IP và thông tin thiết bị theo chính sách riêng của họ. Chúng tôi không kiểm soát các trang web bên thứ ba.
 
@@ -82,15 +83,15 @@ Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày "C�
 
 ## 11. Liên hệ
 
-[TÊN NHÀ PHÁT TRIỂN] · Email: **[EMAIL]**
+[TÊN NHÀ PHÁT TRIỂN] · Email: **ngochuy2603@gmail.com**
 
 ---
 
 # Privacy Policy (English)
 
-*Last updated: [DATE]*
+*Last updated: 18 October 2026*
 
-This policy explains how **[APP NAME]** (the "App"), developed by **[DEVELOPER NAME]** ("we"), handles your information.
+This policy explains how **Reading Lamp (Đèn Đọc)** (the "App"), developed by **[DEVELOPER NAME]** ("we"), handles your information.
 
 ## 1. Summary
 
@@ -106,7 +107,8 @@ This policy explains how **[APP NAME]** (the "App"), developed by **[DEVELOPER N
 | Links of pages you open | Load and read the page aloud | On device |
 | Page text (ads and navigation removed) | Read aloud, save for offline listening | On device; offline chapters **auto-delete after 30 days** |
 | Library, position, history | Resume where you left off | On device |
-| Voice settings, pronunciation rules | Personalise reading | On device |
+| Voice settings (voice, speed, pauses) | Personalise reading | On device |
+| Listening time today | Count the free daily listening time | On device, resets daily |
 
 When you open a link, the App **connects directly to that website**, like a browser does. That website may log your IP address and device information under its own policy. We do not control third-party websites.
 
@@ -162,4 +164,4 @@ We will update this page and the "Last updated" date when this policy changes, a
 
 ## 11. Contact
 
-[DEVELOPER NAME] · Email: **[EMAIL]**
+[DEVELOPER NAME] · Email: **ngochuy2603@gmail.com**
