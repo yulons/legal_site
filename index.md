@@ -1,15 +1,18 @@
 ---
 layout: default
-title: "Đèn Đọc"
+lang: en
+ref: home
+title: "Reading Lamp – Read web pages aloud"
+description: "Reading Lamp reads web pages aloud with the voices built into your phone. Privacy policy, terms of use, support and content reports."
+permalink: /
 ---
 
-# Đèn Đọc
+# Reading Lamp
 
-Ứng dụng đọc to trang web bằng giọng đọc có sẵn trên điện thoại.
-*An app that reads web pages aloud using your phone's built-in voices.*
+Reading Lamp (Đèn Đọc) reads web pages aloud with the voices built into your phone. Paste a link, press play, and keep listening with the screen off, in English or Vietnamese.
 
-- [Chính sách quyền riêng tư · Privacy Policy](./privacy/)
-- [Điều khoản sử dụng · Terms of Use](./terms/)
-- [Hỗ trợ & báo cáo nội dung · Support & Content Reports](./support/)
+- [Privacy Policy](./privacy/)
+- [Terms of Use](./terms/)
+- [Support & Content Reports](./support/)
 
-Liên hệ · Contact: ngochuy2603@gmail.com
+Contact: ngochuy2603@gmail.com

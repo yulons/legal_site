@@ -1,7 +1,16 @@
-title: "Đèn Đọc"
-description: "Chính sách, điều khoản và hỗ trợ cho ứng dụng Đèn Đọc · Privacy, terms and support"
-lang: vi
-theme: jekyll-theme-minimal
+title: "Reading Lamp · Đèn Đọc"
+description: "Privacy policy, terms of use and support for Reading Lamp (Đèn Đọc)."
+url: "https://yulons.github.io"
+baseurl: "/legal_site"
+
+# Mỗi trang một ngôn ngữ: bản tiếng Anh ở URL gốc (/privacy/...), bản tiếng Việt
+# ở /vi/...; hreflang, canonical và lang đặt trong _layouts/default.html.
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
 
 # Không đưa file cấu hình nội bộ lên trang web.
 exclude:
