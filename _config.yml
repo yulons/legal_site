@@ -1,0 +1,8 @@
+title: "[TÊN APP]"
+description: "Chính sách, điều khoản và hỗ trợ cho ứng dụng [TÊN APP] · Privacy, terms and support"
+lang: vi
+theme: jekyll-theme-minimal
+
+# Không đưa file cấu hình nội bộ lên trang web.
+exclude:
+  - README.md
