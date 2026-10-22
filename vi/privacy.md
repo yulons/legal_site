@@ -9,7 +9,7 @@ permalink: /vi/privacy/
 
 # Chính sách quyền riêng tư
 
-*Cập nhật lần cuối: 18/10/2026*
+*Cập nhật lần cuối: 22/10/2026*
 
 Chính sách này giải thích cách ứng dụng **Đèn Đọc** ("Ứng dụng") do **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi") phát triển xử lý thông tin của bạn.
 
@@ -19,6 +19,7 @@ Chính sách này giải thích cách ứng dụng **Đèn Đọc** ("Ứng dụ
 - Link bạn dán, nội dung trang web, thư viện, lịch sử nghe và cài đặt **được lưu trên điện thoại của bạn**, chúng tôi không thu thập.
 - Ứng dụng hiển thị **quảng cáo của Google AdMob**. AdMob có thể dùng mã định danh quảng cáo của thiết bị để hiển thị quảng cáo phù hợp **khi bạn cho phép**.
 - Thanh toán gói trả phí do **Apple** hoặc **Google** xử lý. Chúng tôi không nhận thông tin thẻ của bạn.
+- Ứng dụng gửi **thống kê sử dụng ẩn danh và báo lỗi** qua Google Firebase để sửa lỗi và cải thiện app. Không gửi link, tên trang hay nội dung bạn nghe. Tắt được trong *Cài đặt › Chia sẻ dữ liệu sử dụng ẩn danh*.
 
 ## 2. Dữ liệu được xử lý trên điện thoại của bạn
 
@@ -61,29 +62,39 @@ Nếu không cho phép, bạn vẫn dùng đầy đủ Ứng dụng, quảng cá
 
 Giao dịch được xử lý bởi Apple App Store hoặc Google Play. Ứng dụng chỉ nhận **trạng thái gói** (đang hoạt động hay không) để tắt quảng cáo và giới hạn. Chúng tôi không nhận tên, email hay thông tin thanh toán của bạn.
 
-## 6. Cấu hình từ xa
+## 6. Thống kê sử dụng và báo lỗi (Google Firebase)
+
+Ứng dụng dùng **Google Analytics for Firebase** và **Firebase Crashlytics** để biết tính năng nào được dùng và sửa lỗi làm app bị dừng. Dữ liệu gửi đi:
+
+- Sự kiện sử dụng chung, ví dụ: đã thêm một link (kèm ngôn ngữ đọc, độ dài ước lượng, có tìm thấy chương sau hay không), nghe xong một chương, chọn giọng, đặt hẹn giờ, mở trang gói trả phí;
+- Mã cài đặt ứng dụng ngẫu nhiên (app instance ID), loại thiết bị, phiên bản hệ điều hành và ứng dụng, quốc gia ước lượng theo IP;
+- Khi app bị lỗi: nhật ký lỗi và thông tin kỹ thuật lúc xảy ra lỗi.
+
+**Không bao giờ gửi:** link bạn mở, tên miền, tên truyện hay bài viết, nội dung được đọc, thư viện và lịch sử nghe. Dữ liệu này không gắn với họ tên hay email của bạn (ứng dụng không có tài khoản).
+
+Chỉ bản phát hành trên cửa hàng mới gửi dữ liệu. Bạn tắt được bất cứ lúc nào trong *Cài đặt › Chia sẻ dữ liệu sử dụng ẩn danh*. Google lưu dữ liệu thống kê theo thời hạn đặt trong Firebase (mặc định 2 tháng) và báo lỗi trong 90 ngày. Tìm hiểu thêm: <https://firebase.google.com/support/privacy>.
+
+## 7. Cấu hình từ xa
 
 Ứng dụng định kỳ tải một **tệp cấu hình công khai** (ví dụ danh sách trang web không được hỗ trợ) từ GitHub. Khi tải, GitHub có thể ghi nhận địa chỉ IP theo chính sách của GitHub. Tệp này không chứa và không gửi đi dữ liệu nào của bạn.
 
-<!-- Nếu sau này thêm Firebase Analytics/Crashlytics, bổ sung một mục ở đây và cập nhật Data safety / App Privacy. -->
-
-## 7. Trẻ em
+## 8. Trẻ em
 
 Ứng dụng **không dành cho trẻ em dưới 13 tuổi** (dưới 16 tuổi tại EEA). Ứng dụng có thể mở bất kỳ trang web nào nên được xếp hạng độ tuổi phù hợp trên các cửa hàng. Chúng tôi không cố ý thu thập dữ liệu của trẻ em.
 
-## 8. Lưu trữ và xoá dữ liệu
+## 9. Lưu trữ và xoá dữ liệu
 
 - Dữ liệu trên máy tồn tại cho tới khi bạn xoá trong *Cài đặt › Xoá chương đã lưu / Xoá lịch sử nghe*, hoặc gỡ Ứng dụng.
-- Vì chúng tôi không lưu dữ liệu của bạn trên máy chủ, không có tài khoản nào cần xoá.
+- Chúng tôi không có máy chủ riêng và không có tài khoản người dùng. Thống kê sử dụng và báo lỗi được Google Firebase lưu có thời hạn (mục 6) rồi tự xoá.
 
-## 9. Quyền của bạn
+## 10. Quyền của bạn
 
-Tuỳ luật áp dụng (bao gồm Nghị định 13/2023/NĐ-CP của Việt Nam và GDPR), bạn có quyền được biết, truy cập, chỉnh sửa, xoá dữ liệu và rút lại sự đồng ý. Phần lớn dữ liệu nằm trên máy của bạn nên bạn tự thực hiện được trong Ứng dụng. Với dữ liệu quảng cáo, hãy dùng các tuỳ chọn ở mục 4 hoặc liên hệ Google.
+Tuỳ luật áp dụng (bao gồm Nghị định 13/2023/NĐ-CP của Việt Nam và GDPR), bạn có quyền được biết, truy cập, chỉnh sửa, xoá dữ liệu và rút lại sự đồng ý. Phần lớn dữ liệu nằm trên máy của bạn nên bạn tự thực hiện được trong Ứng dụng. Với dữ liệu quảng cáo, hãy dùng các tuỳ chọn ở mục 4 hoặc liên hệ Google; với thống kê sử dụng, tắt mục *Chia sẻ dữ liệu sử dụng ẩn danh* (mục 6).
 
-## 10. Thay đổi chính sách
+## 11. Thay đổi chính sách
 
 Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày "Cập nhật lần cuối". Thay đổi quan trọng sẽ được thông báo trong Ứng dụng.
 
-## 11. Liên hệ
+## 12. Liên hệ
 
 [TÊN NHÀ PHÁT TRIỂN] · Email: **ngochuy2603@gmail.com**

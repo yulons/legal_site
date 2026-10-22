@@ -9,7 +9,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-*Last updated: 18 October 2026*
+*Last updated: 22 October 2026*
 
 This policy explains how **Reading Lamp (Đèn Đọc)** (the "App"), developed by **[DEVELOPER NAME]** ("we"), handles your information.
 
@@ -19,6 +19,7 @@ This policy explains how **Reading Lamp (Đèn Đọc)** (the "App"), developed 
 - Links you paste, page text, your library, listening history and settings **stay on your device**. We do not collect them.
 - The App shows **Google AdMob ads**. AdMob may use your device's advertising identifier to show relevant ads **if you allow it**.
 - Subscriptions are processed by **Apple** or **Google**. We never receive your card details.
+- The App sends **anonymous usage statistics and crash reports** through Google Firebase so we can fix bugs and improve it. It never sends your links, page titles or what you listen to. You can turn this off in *Settings › Share anonymous usage data*.
 
 ## 2. Data processed on your device
 
@@ -61,27 +62,39 @@ The App **does not send the links or text you listen to** to any ad network.
 
 Payments are handled by the Apple App Store or Google Play. The App only receives your **subscription status** to remove ads and limits. We do not receive your name, email or payment details.
 
-## 6. Remote configuration
+## 6. Usage statistics and crash reports (Google Firebase)
+
+The App uses **Google Analytics for Firebase** and **Firebase Crashlytics** to learn which features are used and to fix crashes. What is sent:
+
+- General usage events, for example: a link was added (with the reading language, an approximate length and whether a next chapter was found), a chapter was finished, a voice was chosen, a sleep timer was set, the subscription page was opened;
+- A random app instance ID, device type, operating system and app version, and an approximate country derived from your IP address;
+- When the App crashes: the crash log and technical details at the time of the crash.
+
+**Never sent:** the links you open, website names, story or article titles, the text being read, your library or your listening history. This data is not tied to your name or email (the App has no accounts).
+
+Only the version from the app stores sends this data. You can turn it off anytime in *Settings › Share anonymous usage data*. Google keeps usage statistics for the retention period set in Firebase (2 months by default) and crash reports for 90 days. Learn more: <https://firebase.google.com/support/privacy>.
+
+## 7. Remote configuration
 
 The App periodically downloads a **public configuration file** (for example, a list of unsupported websites) from GitHub. GitHub may log your IP address under GitHub's policy. The file contains none of your data and nothing is uploaded.
 
-## 7. Children
+## 8. Children
 
 The App is **not directed to children under 13** (under 16 in the EEA). Because it can open any website, it carries an appropriate age rating in the stores. We do not knowingly collect children's data.
 
-## 8. Retention and deletion
+## 9. Retention and deletion
 
 - On-device data stays until you delete it in *Settings › Delete saved chapters / Clear listening history*, or uninstall the App.
-- We keep no server-side data about you, so there is no account to delete.
+- We run no servers of our own and there are no user accounts. Usage statistics and crash reports are kept by Google Firebase for a limited time (section 6) and then deleted.
 
-## 9. Your rights
+## 10. Your rights
 
-Depending on applicable law (including Vietnam's Decree 13/2023/ND-CP and the GDPR), you may have rights to know, access, correct, delete your data and withdraw consent. Most data is on your device, so you can exercise these rights in the App. For advertising data, use the options in section 4 or contact Google.
+Depending on applicable law (including Vietnam's Decree 13/2023/ND-CP and the GDPR), you may have rights to know, access, correct, delete your data and withdraw consent. Most data is on your device, so you can exercise these rights in the App. For advertising data, use the options in section 4 or contact Google; for usage statistics, turn off *Share anonymous usage data* (section 6).
 
-## 10. Changes
+## 11. Changes
 
 We will update this page and the "Last updated" date when this policy changes, and notify you in the App of significant changes.
 
-## 11. Contact
+## 12. Contact
 
 [DEVELOPER NAME] · Email: **ngochuy2603@gmail.com**
