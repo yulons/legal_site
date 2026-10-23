@@ -9,7 +9,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-*Last updated: 22 October 2026*
+*Last updated: 23 October 2026*
 
 This policy explains how **Reading Lamp (Đèn Đọc)** (the "App"), developed by **[DEVELOPER NAME]** ("we"), handles your information.
 
@@ -60,13 +60,13 @@ The App **does not send the links or text you listen to** to any ad network.
 
 ## 5. Purchases
 
-Payments are handled by the Apple App Store or Google Play. The App only receives your **subscription status** to remove ads and limits. We do not receive your name, email or payment details.
+Payments are handled by the Apple App Store or Google Play. The App only receives your **subscription status** to remove ads and limits. We do not receive your name, email or payment details. When you buy or restore a subscription, the App records an anonymous usage event with the plan type (see section 6).
 
 ## 6. Usage statistics and crash reports (Google Firebase)
 
 The App uses **Google Analytics for Firebase** and **Firebase Crashlytics** to learn which features are used and to fix crashes. What is sent:
 
-- General usage events, for example: a link was added (with the reading language, an approximate length and whether a next chapter was found), a chapter was finished, a voice was chosen, a sleep timer was set, the subscription page was opened;
+- General usage events, for example: a link was added (with the reading language, an approximate length and whether a next chapter was found), a chapter was finished, a voice was chosen, a sleep timer was set, the subscription page was opened, a subscription was bought or restored (with the plan type, monthly or yearly);
 - A random app instance ID, device type, operating system and app version, and an approximate country derived from your IP address;
 - When the App crashes: the crash log and technical details at the time of the crash.
 

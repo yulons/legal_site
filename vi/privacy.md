@@ -9,7 +9,7 @@ permalink: /vi/privacy/
 
 # Chính sách quyền riêng tư
 
-*Cập nhật lần cuối: 22/10/2026*
+*Cập nhật lần cuối: 23/10/2026*
 
 Chính sách này giải thích cách ứng dụng **Đèn Đọc** ("Ứng dụng") do **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi") phát triển xử lý thông tin của bạn.
 
@@ -60,13 +60,13 @@ Nếu không cho phép, bạn vẫn dùng đầy đủ Ứng dụng, quảng cá
 
 ## 5. Mua gói trả phí
 
-Giao dịch được xử lý bởi Apple App Store hoặc Google Play. Ứng dụng chỉ nhận **trạng thái gói** (đang hoạt động hay không) để tắt quảng cáo và giới hạn. Chúng tôi không nhận tên, email hay thông tin thanh toán của bạn.
+Giao dịch được xử lý bởi Apple App Store hoặc Google Play. Ứng dụng chỉ nhận **trạng thái gói** (đang hoạt động hay không) để tắt quảng cáo và giới hạn. Chúng tôi không nhận tên, email hay thông tin thanh toán của bạn. Khi bạn mua hoặc khôi phục gói, Ứng dụng ghi một sự kiện thống kê ẩn danh kèm loại gói (xem mục 6).
 
 ## 6. Thống kê sử dụng và báo lỗi (Google Firebase)
 
 Ứng dụng dùng **Google Analytics for Firebase** và **Firebase Crashlytics** để biết tính năng nào được dùng và sửa lỗi làm app bị dừng. Dữ liệu gửi đi:
 
-- Sự kiện sử dụng chung, ví dụ: đã thêm một link (kèm ngôn ngữ đọc, độ dài ước lượng, có tìm thấy chương sau hay không), nghe xong một chương, chọn giọng, đặt hẹn giờ, mở trang gói trả phí;
+- Sự kiện sử dụng chung, ví dụ: đã thêm một link (kèm ngôn ngữ đọc, độ dài ước lượng, có tìm thấy chương sau hay không), nghe xong một chương, chọn giọng, đặt hẹn giờ, mở trang gói trả phí, mua hoặc khôi phục gói (kèm loại gói tháng / năm);
 - Mã cài đặt ứng dụng ngẫu nhiên (app instance ID), loại thiết bị, phiên bản hệ điều hành và ứng dụng, quốc gia ước lượng theo IP;
 - Khi app bị lỗi: nhật ký lỗi và thông tin kỹ thuật lúc xảy ra lỗi.
 
