@@ -41,7 +41,7 @@ The free tier has a daily listening limit and shows ads. You may **choose** to w
 
 ## 6. Intellectual property
 
-The App, its design and code belong to us. Voices belong to the operating system provider. Website content belongs to its respective owners.
+The App, its design and code belong to us. Voices belong to the operating system provider. Website content belongs to its respective owners. Open-source components and their licenses are listed on the [Open-source licenses]({{ '/licenses/' | relative_url }}) page.
 
 ## 7. Disclaimer
 

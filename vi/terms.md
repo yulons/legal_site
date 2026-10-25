@@ -41,7 +41,7 @@ Bản miễn phí có giới hạn thời gian nghe mỗi ngày và hiển thị
 
 ## 6. Quyền sở hữu trí tuệ
 
-Ứng dụng, giao diện và mã nguồn thuộc về chúng tôi. Giọng đọc thuộc về nhà cung cấp hệ điều hành. Nội dung trang web thuộc về chủ sở hữu tương ứng.
+Ứng dụng, giao diện và mã nguồn thuộc về chúng tôi. Giọng đọc thuộc về nhà cung cấp hệ điều hành. Nội dung trang web thuộc về chủ sở hữu tương ứng. Các thành phần mã nguồn mở và giấy phép của chúng có ở trang [Giấy phép mã nguồn mở]({{ '/vi/licenses/' | relative_url }}).
 
 ## 7. Miễn trừ bảo đảm
 
