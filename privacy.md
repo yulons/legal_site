@@ -11,7 +11,7 @@ permalink: /privacy/
 
 *Last updated: 23 October 2026*
 
-This policy explains how **Reading Lamp (Đèn Đọc)** (the "App"), developed by **[DEVELOPER NAME]** ("we"), handles your information.
+This policy explains how **Reading Lamp (Đèn Đọc)** (the "App"), developed by **Steven Nguyen** ("we"), handles your information.
 
 ## 1. Summary
 
@@ -97,4 +97,4 @@ We will update this page and the "Last updated" date when this policy changes, a
 
 ## 12. Contact
 
-[DEVELOPER NAME] · Email: **ngochuy2603@gmail.com**
+Steven Nguyen · Email: **ngochuy2603@gmail.com**

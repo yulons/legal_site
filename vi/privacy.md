@@ -11,7 +11,7 @@ permalink: /vi/privacy/
 
 *Cập nhật lần cuối: 23/10/2026*
 
-Chính sách này giải thích cách ứng dụng **Đèn Đọc** ("Ứng dụng") do **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi") phát triển xử lý thông tin của bạn.
+Chính sách này giải thích cách ứng dụng **Đèn Đọc** ("Ứng dụng") do **Steven Nguyen** ("chúng tôi") phát triển xử lý thông tin của bạn.
 
 ## 1. Tóm tắt
 
@@ -97,4 +97,4 @@ Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày "C�
 
 ## 12. Liên hệ
 
-[TÊN NHÀ PHÁT TRIỂN] · Email: **ngochuy2603@gmail.com**
+Steven Nguyen · Email: **ngochuy2603@gmail.com**

@@ -11,7 +11,7 @@ permalink: /terms/
 
 *Last updated: 18 October 2026*
 
-By downloading or using **Reading Lamp (Đèn Đọc)** (the "App") from **[DEVELOPER NAME]** ("we"), you agree to these terms.
+By downloading or using **Reading Lamp (Đèn Đọc)** (the "App") from **Steven Nguyen** ("we"), you agree to these terms.
 
 ## 1. What the App does
 

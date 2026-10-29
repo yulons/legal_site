@@ -11,7 +11,7 @@ permalink: /vi/terms/
 
 *Cập nhật lần cuối: 18/10/2026*
 
-Khi tải hoặc dùng ứng dụng **Đèn Đọc** ("Ứng dụng") của **[TÊN NHÀ PHÁT TRIỂN]** ("chúng tôi"), bạn đồng ý với các điều khoản dưới đây.
+Khi tải hoặc dùng ứng dụng **Đèn Đọc** ("Ứng dụng") của **Steven Nguyen** ("chúng tôi"), bạn đồng ý với các điều khoản dưới đây.
 
 ## 1. Ứng dụng làm gì
 
